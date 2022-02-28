@@ -1,6 +1,9 @@
-### Hi there 👋
 ### TODO: Under Construction 
-![Kims's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimlalman28&count_private=true&show_icons=true&theme=shades-of-purple)
+### Hey! Kim here, and welcome to my GH page :) 
+
+I'm currently learning Haskell
+
+![Kims's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimlalman28&show_icons=true&theme=shades-of-purple)
 
 <!--
 **kimlalman28/kimlalman28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
