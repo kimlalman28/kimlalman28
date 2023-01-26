@@ -1,11 +1,11 @@
-<div align="center">
+<span align="center">
  
  ![giphy](https://user-images.githubusercontent.com/17414922/214938353-21ae0c96-8211-46bf-9fc2-8c7d9e896262.gif)
-</div>
+</span>
 
-## Under construction 🛠
+**Under construction 🛠**
 
-### Languages & Tools
+<!-- ### Languages & Tools
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -42,7 +42,7 @@ I like exploring new places 🌃
 
 #### Coder by day, Gamer by night
 <a> ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) </a>
-<a> ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) </a>
+<a> ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) </a> -->
 
 
 
