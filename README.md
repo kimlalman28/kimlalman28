@@ -1,7 +1,6 @@
 <div align="center">
  
- ![flowers](https://user-images.githubusercontent.com/17414922/214937352-54a8a596-54b8-46ae-95d6-f57e2b1366ef.gif)
- ![flowers](https://user-images.githubusercontent.com/17414922/214937352-54a8a596-54b8-46ae-95d6-f57e2b1366ef.gif)
+ ![giphy](https://user-images.githubusercontent.com/17414922/214938353-21ae0c96-8211-46bf-9fc2-8c7d9e896262.gif)
 </div>
 
 ## Under construction 🛠
