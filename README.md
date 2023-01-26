@@ -1,5 +1,10 @@
-## Hiya! 
- <img align="right" alt="Octocat" src="https://user-images.githubusercontent.com/17414922/157148683-4bcddfda-d6e4-4d41-96ee-fa05856a3618.png" width="350" />
+<div align="center">
+ 
+ ![flowers](https://user-images.githubusercontent.com/17414922/214937352-54a8a596-54b8-46ae-95d6-f57e2b1366ef.gif)
+ ![flowers](https://user-images.githubusercontent.com/17414922/214937352-54a8a596-54b8-46ae-95d6-f57e2b1366ef.gif)
+</div>
+
+## Under construction 🛠
 
 ### Languages & Tools
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
