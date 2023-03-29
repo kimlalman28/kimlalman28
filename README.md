@@ -9,8 +9,13 @@
 </p>
 <p>Sometimes I help my mom with her 🧁 bakery business by decorating sugar cookies. Check us out <a href="https://www.instagram.com/sprinklesomething/">@sprinklesomething</a></p>
 <p>I spend most of my free time gaming. Let's chat about ♥️ Kingdom Hearts or the 🐉 Yakuza series</p>
-<p>My current hobby is 🧶 crocheting things like tops, amigurumi, and accessories</p>
+<p>My current hobby is 🧶 crocheting things like tops, amigurumi, and accessories (I made the bottle holder shown in my GH avatar!)</p>
 <p>I am a 🌱 nature enthusiast - I am no plant expert but I also enjoy gardening and taking care of my house plants</p>
+
+----
+
+###### Connect with me on
+<a href="https://www.linkedin.com/in/kimberlylalmansingh/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ### 🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
 
@@ -36,9 +41,6 @@
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 <br />
-
-#### Connect with me
-<a href="https://www.linkedin.com/in/kimberlylalmansingh/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
 #### Coder by day, Gamer by night
 <a> ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) </a>
