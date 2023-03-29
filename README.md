@@ -1,17 +1,18 @@
-### 🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
+### 🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
 
 <div align="center">
  <h1>Hiya!</h2>
 </div>
 
 <p>I'm Kimberly, Kim for short - not Kim Possible but I like proving to self that I can make the impossible, possible.</p>
-<p>Currently enjoying my time as a software engineer <a href="https://github.com">@GitHub</a></p>
-<p>Sometimes I help my mom with her 🧁 bakery business by decorating Sugar Cookies. Check us out <a href="https://www.instagram.com/sprinklesomething/">@sprinklesomething</a></p>
+<p>Currently enjoying my time as a software engineer <a href="https://github.com">@GitHub</a><img width=50 height=45 src="https://user-images.githubusercontent.com/17414922/228688837-87fcd8d7-3f75-4276-9e35-f08dec308283.gif" />
+</p>
+<p>Sometimes I help my mom with her 🧁 bakery business by decorating sugar cookies. Check us out <a href="https://www.instagram.com/sprinklesomething/">@sprinklesomething</a></p>
 <p>I spend most of my free time gaming. Let's chat about ♥️ Kingdom Hearts or the 🐉 Yakuza series</p>
 <p>My current hobby is 🧶 crocheting things like tops, amigurumi, and accessories</p>
 <p>I am a 🌱 nature enthusiast - I am no plant expert but I also enjoy gardening and taking care of my house plants</p>
 
-### 🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
+### 🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
 
 <!-- ### Languages & Tools
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
@@ -39,36 +40,8 @@
 #### Connect with me
 <a href="https://www.linkedin.com/in/kimberlylalmansingh/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
-#### In my free time
-I crochet 🧶
-<br />
-I decorate sugar cookies 🍪
-<br />
-I am a foodie 🍱
-<br />
-I like exploring new places 🌃
-
 #### Coder by day, Gamer by night
 <a> ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) </a>
 <a> ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) </a> -->
 
 
-
-
-
-<!--
-**kimlalman28/kimlalman28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
-  
