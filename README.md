@@ -1,11 +1,5 @@
 <div align="center">
- <h1>
-  🌸🌸🌸
-  <img width=70 height=90 src="https://user-images.githubusercontent.com/17414922/228691279-0d96e768-6ced-478c-ba12-2a773c3136b8.gif" />
-  Hiya! 
-  <img width=70 height=90 src="https://user-images.githubusercontent.com/17414922/228691279-0d96e768-6ced-478c-ba12-2a773c3136b8.gif" />
-  🌸🌸🌸
- </h1>
+ <h1>🌸🌸🌸&nbsp;&nbsp;&nbsp;Hiya!&nbsp;&nbsp;&nbsp;🌸🌸🌸</h1>
 </div>
 
 <p>I'm Kimberly, Kim for short - not Kim Possible but I like proving to self that I can make the impossible, possible.</p>
